@@ -24,8 +24,4 @@ TechNode, kurumsal web siteleri için geliştirilmiş, PHP ve MySQL tabanlı, sa
 4. `/admin/login.php` üzerinden giriş yapın. (Varsayılan: admin / 123456)
 
 ## 📜 Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır.
-
----
-**Geliştirici:** [Eyyüp Bademci](https://github.com/eyupbd07)
+Bu proje [MIT](LICENSE) lisansı ile lisanslanmıştır.
